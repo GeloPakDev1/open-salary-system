@@ -1,7 +1,6 @@
 package com.gpd.esm.dto;
 
 import com.gpd.esm.domain.Salary;
-import lombok.Getter;
 
 import java.util.List;
 
